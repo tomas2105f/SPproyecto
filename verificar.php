@@ -79,4 +79,5 @@ else
 //*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*
 
 mysql_close($conexion);//cierro la conexion a la bd
+
 ?>
